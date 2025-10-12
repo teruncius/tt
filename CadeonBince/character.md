@@ -6,7 +6,7 @@
 - Alignment: Neutral Chaotic
 - Experience: 0 xp
 
-## ABILITY SCORES & ABILITIES
+## ABILITY SCORES
 
 | Ability | Value | Bonus | Saving Throw |
 | ---- | --- | -------------- | ------------- |
@@ -17,7 +17,7 @@
 | Wisdom | 16 | +3 | [X] +5 |
 | Charisma | 15 | +2 | [X] +4 |
 
-(* includes +2 proficiency bonus; ** includes expertise, if any)
+## ABILITIES
 
 | Skill | Ability | Proficiency (+2) | Total | Misc |
 | --- | --- | --- | --- | --- |
@@ -46,9 +46,9 @@
 - +2 ... Initiative Modifier
 - Armor Class 13 ... Armor worn: leather armor (AC 11)
 - Speed: 30 ft. ... Base distance per move
-- 165 lbs. ... Maximum Carrying Capacity
-- 330 lbs. ... Max. Push or Drag (Speed -5 ft.)
-- 330 lbs. ... Maximum Lift
+- ~48 lbs. ... Maximum Carrying Capacity
+- ~96 lbs. ... Max. Push or Drag (Speed -5 ft.)
+- ~96 lbs. ... Maximum Lift
 - Size: small
 - 8 hit points ... 1d8 Hit Dice
 
