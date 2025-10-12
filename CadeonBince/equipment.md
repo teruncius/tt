@@ -12,6 +12,8 @@
 - holy symbol: amulet
 - costume
 - harmonica
+- paper + ink + quill
+- thieves' tools
 
 ### Coins & Gems:
 
