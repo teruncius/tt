@@ -3,7 +3,7 @@
 - Race/Ancestry/Heritage: Halfling
 - Class & Level: Cleric (Trickery Domain) 1
 - Background: Charlatan
-- Alignment: Neutral Chaotic
+- Alignment: Neutral Good
 - Experience: 0 xp
 
 ## ABILITY SCORES
@@ -52,10 +52,10 @@
 - Size: small
 - 8 hit points ... 1d8 Hit Dice
 
-| Name | Hit | Range | Hit | Misc |
+| Name | Hit | Range | Damage | Misc |
 | --- | --- | --- | --- | --- |
-| Handaxe | +3 | | 1d6+1 slashing |  |
-| Dagger | +4 | | 1d4+2 piercing |  |
+| Handaxe | +2 | | 1d6+1 slashing |  |
+| Dagger | +2 | | 1d4+2 piercing |  |
 | Light Crossbow | +4 | 80/320 | 1d8+2 pierce | 2H, slow |
 | Sacred Flame Cantrip | +4 (from SAM) | 60 | 1d8 radiant | DEX saving throw |
 

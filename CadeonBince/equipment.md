@@ -14,10 +14,19 @@
 - harmonica
 - paper + ink + quill
 - thieves' tools
+- 5 rations
 
 ### Coins & Gems:
 
-- 39 gold pieces
+- 108 gold pieces
 - 47 silver pieces
 - 71 copper pieces
 - 2 gems (worth 10 gp each)
+- big yellow gem (100 gp)
+
+### Adventure: The Mad Manor of Astabar
+
+- Schädel (Zunehmender Halbmond)
+- Schädel (Zunehmender Sichelmond)
+- Silberdolch
+- Magische Lupe (Translation)
